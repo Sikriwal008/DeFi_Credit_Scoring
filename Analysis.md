@@ -8,7 +8,9 @@ This document analyzes the 3,495 wallet credit scores generated from Aave V2 tra
 
 Below is the histogram of all wallet credit scores. Wallets forced to **0** (due to at least one liquidation) form a distinct cluster at the left, while the remainder span the 1–1000 range.
 
-![Score Distribution](output/score_distribution.png)
+<img width="1200" height="700" alt="score_distribution" src="https://github.com/user-attachments/assets/5e30941c-e63e-41e9-8254-d25072fe7e0b" />
+
+
 
 ---
 
